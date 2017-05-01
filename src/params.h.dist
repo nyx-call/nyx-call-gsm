@@ -1,0 +1,13 @@
+#define APN_NAME ""
+#define APN_USER ""
+#define APN_PASS ""
+
+// nyx-call MQTT config
+#define NYX_CALL_MQTT_SERVER ""
+#define NYX_CALL_MQTT_USER ""
+#define NYX_CALL_MQTT_PASS ""
+
+// nyx-call-gsm MQTT config
+#define NYX_CALL_GSM_MQTT_SERVER ""
+#define NYX_CALL_GSM_MQTT_USER ""
+#define NYX_CALL_GSM_MQTT_PASS ""
